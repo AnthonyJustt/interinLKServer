@@ -1,4 +1,5 @@
-{
+[
+	{
 	"phone": "+7 (111) 999-99-99",
 	"login": "demopromis3@yandex.ru",
 	"fio": "Тестовский Тест М.",
@@ -54,3 +55,4 @@
 	"emaPatientIdForReq": null,
 	"emaChartdIdForReq": "e1a32662-e080-40d1-8301-c5686664b18a"
 }
+]
