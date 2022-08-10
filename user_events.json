@@ -1,0 +1,208 @@
+{
+	"message": null,
+	"error": null,
+	"objectResponse": [
+		{
+			"id": null,
+			"typeMessage": "REQUEST_GET_LAB_DOCS",
+			"ip": "0:0:0:0:0:0:0:1",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+			"dateCreate": "04.08.2022 21:40:32",
+			"name": "Получение списка анализов",
+			"color": "yellow",
+			"allInfo": "Получение списка анализов, IP 0:0:0:0:0:0:0:1, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+		},
+		{
+			"id": null,
+			"typeMessage": "REQUEST_LOGIN",
+			"ip": "0:0:0:0:0:0:0:1",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+			"dateCreate": "04.08.2022 21:40:27",
+			"name": "Вход пользователя в личный кабинет",
+			"color": "blue",
+			"allInfo": "Вход пользователя в личный кабинет, IP 0:0:0:0:0:0:0:1, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+		},
+		{
+			"id": null,
+			"typeMessage": "REQUEST_SEND_EMAIL_DOCS_USER",
+			"ip": "127.0.0.1",
+			"userAgent": "Java/17.0.1",
+			"dateCreate": "04.08.2022 10:49:48",
+			"name": "Отправка протоколов пользователя на почту",
+			"color": "red",
+			"allInfo": "Отправка протоколов пользователя на почту, IP 127.0.0.1, Java/17.0.1"
+		},
+		{
+			"id": null,
+			"typeMessage": "REQUEST_SEND_EMAIL_DOCS_USER",
+			"ip": "127.0.0.1",
+			"userAgent": "Java/17.0.1",
+			"dateCreate": "04.08.2022 10:48:45",
+			"name": "Отправка протоколов пользователя на почту",
+			"color": "red",
+			"allInfo": "Отправка протоколов пользователя на почту, IP 127.0.0.1, Java/17.0.1"
+		},
+		{
+			"id": null,
+			"typeMessage": "REQUEST_SEND_EMAIL_DOCS_USER",
+			"ip": "127.0.0.1",
+			"userAgent": "Java/17.0.1",
+			"dateCreate": "04.08.2022 10:47:28",
+			"name": "Отправка протоколов пользователя на почту",
+			"color": "red",
+			"allInfo": "Отправка протоколов пользователя на почту, IP 127.0.0.1, Java/17.0.1"
+		},
+		{
+			"id": null,
+			"typeMessage": "REQUEST_SEND_EMAIL_DOCS_USER",
+			"ip": "127.0.0.1",
+			"userAgent": "Java/17.0.1",
+			"dateCreate": "04.08.2022 10:44:16",
+			"name": "Отправка протоколов пользователя на почту",
+			"color": "red",
+			"allInfo": "Отправка протоколов пользователя на почту, IP 127.0.0.1, Java/17.0.1"
+		},
+		{
+			"id": null,
+			"typeMessage": "REQUEST_SEND_EMAIL_DOCS_USER",
+			"ip": "127.0.0.1",
+			"userAgent": "Java/17.0.1",
+			"dateCreate": "04.08.2022 10:14:01",
+			"name": "Отправка протоколов пользователя на почту",
+			"color": "red",
+			"allInfo": "Отправка протоколов пользователя на почту, IP 127.0.0.1, Java/17.0.1"
+		},
+		{
+			"id": null,
+			"typeMessage": "REQUEST_SEND_EMAIL_DOCS_USER",
+			"ip": "127.0.0.1",
+			"userAgent": "Java/17.0.1",
+			"dateCreate": "04.08.2022 10:10:19",
+			"name": "Отправка протоколов пользователя на почту",
+			"color": "red",
+			"allInfo": "Отправка протоколов пользователя на почту, IP 127.0.0.1, Java/17.0.1"
+		},
+		{
+			"id": null,
+			"typeMessage": "REQUEST_SEND_EMAIL_DOCS_USER",
+			"ip": "127.0.0.1",
+			"userAgent": "Java/17.0.1",
+			"dateCreate": "04.08.2022 10:08:10",
+			"name": "Отправка протоколов пользователя на почту",
+			"color": "red",
+			"allInfo": "Отправка протоколов пользователя на почту, IP 127.0.0.1, Java/17.0.1"
+		},
+		{
+			"id": null,
+			"typeMessage": "REQUEST_SEND_EMAIL_DOCS_USER",
+			"ip": "127.0.0.1",
+			"userAgent": "Java/17.0.1",
+			"dateCreate": "04.08.2022 10:05:56",
+			"name": "Отправка протоколов пользователя на почту",
+			"color": "red",
+			"allInfo": "Отправка протоколов пользователя на почту, IP 127.0.0.1, Java/17.0.1"
+		},
+		{
+			"id": null,
+			"typeMessage": "REQUEST_SEND_EMAIL_DOCS_USER",
+			"ip": "127.0.0.1",
+			"userAgent": "Java/17.0.1",
+			"dateCreate": "04.08.2022 10:02:22",
+			"name": "Отправка протоколов пользователя на почту",
+			"color": "red",
+			"allInfo": "Отправка протоколов пользователя на почту, IP 127.0.0.1, Java/17.0.1"
+		},
+		{
+			"id": null,
+			"typeMessage": "REQUEST_SEND_EMAIL_DOCS_USER",
+			"ip": "127.0.0.1",
+			"userAgent": "Java/17.0.1",
+			"dateCreate": "04.08.2022 10:00:39",
+			"name": "Отправка протоколов пользователя на почту",
+			"color": "red",
+			"allInfo": "Отправка протоколов пользователя на почту, IP 127.0.0.1, Java/17.0.1"
+		},
+		{
+			"id": null,
+			"typeMessage": "REQUEST_SEND_EMAIL_DOCS_USER",
+			"ip": "127.0.0.1",
+			"userAgent": "Java/17.0.1",
+			"dateCreate": "04.08.2022 09:50:32",
+			"name": "Отправка протоколов пользователя на почту",
+			"color": "red",
+			"allInfo": "Отправка протоколов пользователя на почту, IP 127.0.0.1, Java/17.0.1"
+		},
+		{
+			"id": null,
+			"typeMessage": "REQUEST_SEND_EMAIL_DOCS_USER",
+			"ip": "127.0.0.1",
+			"userAgent": "Java/17.0.1",
+			"dateCreate": "04.08.2022 09:45:24",
+			"name": "Отправка протоколов пользователя на почту",
+			"color": "red",
+			"allInfo": "Отправка протоколов пользователя на почту, IP 127.0.0.1, Java/17.0.1"
+		},
+		{
+			"id": null,
+			"typeMessage": "REQUEST_SEND_EMAIL_DOCS_USER",
+			"ip": "127.0.0.1",
+			"userAgent": "Java/17.0.1",
+			"dateCreate": "04.08.2022 09:41:48",
+			"name": "Отправка протоколов пользователя на почту",
+			"color": "red",
+			"allInfo": "Отправка протоколов пользователя на почту, IP 127.0.0.1, Java/17.0.1"
+		},
+		{
+			"id": null,
+			"typeMessage": "REQUEST_SEND_EMAIL_DOCS_USER",
+			"ip": "127.0.0.1",
+			"userAgent": "Java/17.0.1",
+			"dateCreate": "04.08.2022 09:34:31",
+			"name": "Отправка протоколов пользователя на почту",
+			"color": "red",
+			"allInfo": "Отправка протоколов пользователя на почту, IP 127.0.0.1, Java/17.0.1"
+		},
+		{
+			"id": null,
+			"typeMessage": "REQUEST_SEND_EMAIL_DOCS_USER",
+			"ip": "127.0.0.1",
+			"userAgent": "Java/17.0.1",
+			"dateCreate": "04.08.2022 09:32:48",
+			"name": "Отправка протоколов пользователя на почту",
+			"color": "red",
+			"allInfo": "Отправка протоколов пользователя на почту, IP 127.0.0.1, Java/17.0.1"
+		},
+		{
+			"id": null,
+			"typeMessage": "REQUEST_SEND_EMAIL_DOCS_USER",
+			"ip": "127.0.0.1",
+			"userAgent": "Java/17.0.1",
+			"dateCreate": "04.08.2022 09:30:05",
+			"name": "Отправка протоколов пользователя на почту",
+			"color": "red",
+			"allInfo": "Отправка протоколов пользователя на почту, IP 127.0.0.1, Java/17.0.1"
+		},
+		{
+			"id": null,
+			"typeMessage": "REQUEST_SEND_EMAIL_DOCS_USER",
+			"ip": "127.0.0.1",
+			"userAgent": "Java/17.0.1",
+			"dateCreate": "04.08.2022 09:25:33",
+			"name": "Отправка протоколов пользователя на почту",
+			"color": "red",
+			"allInfo": "Отправка протоколов пользователя на почту, IP 127.0.0.1, Java/17.0.1"
+		},
+		{
+			"id": null,
+			"typeMessage": "REQUEST_SEND_EMAIL_DOCS_USER",
+			"ip": "127.0.0.1",
+			"userAgent": "Java/17.0.1",
+			"dateCreate": "04.08.2022 09:23:31",
+			"name": "Отправка протоколов пользователя на почту",
+			"color": "red",
+			"allInfo": "Отправка протоколов пользователя на почту, IP 127.0.0.1, Java/17.0.1"
+		}
+	],
+	"dateCreate": null,
+	"cache": null
+}
